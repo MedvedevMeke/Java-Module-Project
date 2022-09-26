@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 public class Main {
 
@@ -124,6 +125,6 @@ class Calculator {
         }
         return rubResult;
     } //рубль/ля/лей
-}
+
 
 
